@@ -18,5 +18,5 @@ git remote add origin #хэш сумма
 
 git clone = просто клон проекта их удаленного сервера Гитхаб
 
-
+hey honey
  
