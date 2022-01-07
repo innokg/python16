@@ -20,3 +20,5 @@ git clone = просто клон проекта их удаленного се�
 
 hey honey
  
+askfnasfasfasdasd
+dasdasdasdads
