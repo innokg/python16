@@ -10,7 +10,7 @@ git init - инициализация
 
 git add <file_name> - для проверки статуса 
 git commit -m 'comments' - он фиксирует файл и создает хэш сумму
-
+git push origin master - отправка всех локальных коммитов на Гитхаб или другой удаленный репозиторий
 
 
 git remote add origin #хэш сумма
@@ -24,3 +24,6 @@ git config --global user.email ulan.chokushov@gmail.com
 
 git config --local user.name "Ulan Chokushov"
 git config --local user.email ulan.chokushov@gmail.com
+
+
+
