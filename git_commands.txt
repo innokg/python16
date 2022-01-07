@@ -18,7 +18,9 @@ git remote add origin #хэш сумма
 
 git clone = просто клон проекта их удаленного сервера Гитхаб
 
-hey honey
- 
-askfnasfasfasdasd
-dasdasdasdads
+
+git config --global user.name "Ulan Chokushov"
+git config --global user.email ulan.chokushov@gmail.com
+
+git config --local user.name "Ulan Chokushov"
+git config --local user.email ulan.chokushov@gmail.com
